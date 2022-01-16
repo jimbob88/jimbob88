@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimbob88&count_private=true&theme=radical" />
 </a>
 <a href="https://github.com/jimbob88">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbob88" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbob88&layout=compact&theme=radical" />
 </a>
 <!--
 **jimbob88/jimbob88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
